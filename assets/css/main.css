@@ -1944,7 +1944,8 @@
 	
 		.image iframe {
 			border-radius: 3px;
-			display: block;
+			display: inline-block;
+			position: relative;
 		}
 
 		.image img {
